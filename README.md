@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @RafikoZZ55
-- 👀 I’m interested in submissive femboys
-- 🌱 I’m currently learning THREE.js grid js and anything's react, kotlin, groove, rust
-- 😄 Pronouns: he/she
-- ⚡ Fun fact: i like femboys :3
+# 👋 Hi there, I’m Rafał (@RafikoZZ55)
 
-<!---
-RafikoZZ55/RafikoZZ55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a 16-year-old student learning full-stack development — passionate about web3, blockchain, and open-source.  
+🛠️ Currently working with **React**, **Next.js**, **TypeScript**,  
+🚀 I love building small tools, dashboards, and experimenting with crypto technologies like **Kaspa**.  
+📘 Always learning new things, from game dev to smart contracts and backend logic.
+
+---
+
+
+### 🔗 Find me around the web:
+- 🐙 GitHub Projects: [github.com/RafikoZZ55](https://github.com/RafikoZZ55)
+- 💬 Discord: `Maserak` (you can DM me if you're a dev 👨‍💻)
+- 🌍 Portfolio (coming soon!)
+
+---
+
+> ⚡ *Fun fact:* I used to play around with Unreal Engine and game dev before diving into web3. I’m all about learning through building. Let’s build something cool!
