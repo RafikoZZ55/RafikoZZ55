@@ -1,18 +1,35 @@
-# 👋 Hi there, I’m Rafał (@RafikoZZ55)
+# Hi, I'm Rafał
 
-🎓 I'm a 16-year-old student learning full-stack development — passionate about web3, blockchain, and open-source.  
-🛠️ Currently working with **React**, **Next.js**, **TypeScript**,  
-🚀 I love building small tools, dashboards, and experimenting with crypto technologies like **Kaspa**.  
-📘 Always learning new things, from game dev to smart contracts and backend logic.
+**Full-Stack Developer | Next.js & Flutter**
 
----
-
-
-### 🔗 Find me around the web:
-- 🐙 GitHub Projects: [github.com/RafikoZZ55](https://github.com/RafikoZZ55)
-- 💬 Discord: `Maserak` (you can DM me if you're a dev 👨‍💻)
-- 🌍 Portfolio (coming soon!)
+I build modern web and mobile applications with a strong focus on clean architecture, scalability, and real-world deployment.
 
 ---
 
-> ⚡ *Fun fact:* I used to play around with Unreal Engine and game dev before diving into web3. I’m all about learning through building. Let’s build something cool!
+## Tech Stack
+
+**Frontend**
+Next.js (App Router) • React • TypeScript • Tailwind CSS • shadcn/ui
+
+**Backend**
+Node.js • Prisma • PostgreSQL • REST APIs • NextAuth
+
+**Mobile**
+Flutter • Dart
+
+---
+
+## What I Do
+
+* Build full-stack applications end-to-end
+* Design scalable backend structures
+* Create clean, reusable UI systems
+* Deploy production-ready projects
+
+---
+
+## Current Focus
+
+Improving system design, advanced state management, and building larger real-world projects.
+
+> Learning by building. Shipping consistently. Growing every day.
